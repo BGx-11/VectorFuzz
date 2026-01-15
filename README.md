@@ -140,4 +140,3 @@ Licensed under the **MIT License**.
 <em>Cybersecurity Enthusiast & Developer</em>
 </p>
 
-```
