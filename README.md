@@ -6,10 +6,6 @@
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-0078D6?style=for-the-badge&logo=tcl)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<p align="center">
-  <img src="https://via.placeholder.com/150/050505/00F0FF?text=VF" width="120" alt="VectorFuzz Logo">
-</p>
-
 ---
 
 ## Overview
@@ -143,7 +139,5 @@ Licensed under the **MIT License**.
 
 <em>Cybersecurity Enthusiast & Developer</em>
 </p>
-
-```
 
 ```
