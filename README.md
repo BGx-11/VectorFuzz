@@ -73,7 +73,7 @@ Export scan results in multiple formats:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/VectorFuzz.git](https://github.com/yourusername/VectorFuzz.git)
+git clone [https://github.com/BGx-11/VectorFuzz.git](https://github.com/BGx-11/VectorFuzz.git)
 cd VectorFuzz
 
 ```
